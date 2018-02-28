@@ -54,4 +54,24 @@ git init
 查看 commit 详情  
 
     git log
+## pull
 
+从远程仓库拉取代码与本地同步
+
+```
+git pull
+```
+
+等同于
+
+```
+git fetch && git merge
+```
+
+## push
+
+将本地修改提交到远程仓库
+
+```
+git push
+```
