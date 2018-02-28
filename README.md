@@ -39,3 +39,8 @@
 
     git commit -m '我修改了一些文件'
     
+## log  
+查看 commit 详情  
+
+    git log
+
